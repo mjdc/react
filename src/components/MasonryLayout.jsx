@@ -13,7 +13,7 @@ const breakpointColumnsObj = {
 
 
 const MasonryLayout = ({pins}) => {
-  useEffect
+  
   return (
     <div>
       <Masonry className='flex animate-slide-fwd' breakpointCols={breakpointColumnsObj}>
